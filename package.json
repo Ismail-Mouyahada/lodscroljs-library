@@ -1,0 +1,26 @@
+{
+  "name": "lodscroljs",
+  "version": "1.0.1",
+  "description": "npm library called lodscroljs for loading more content on scroll to avoid loading too much data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ismail-Mouyahada/lodscroljs.git"
+  },
+  "keywords": [
+    "load",
+    "data",
+    "fast",
+    "scroll",
+    "down"
+  ],
+  "author": "Ismail Mouyahada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ismail-Mouyahada/lodscroljs/issues"
+  },
+  "homepage": "https://github.com/Ismail-Mouyahada/lodscroljs#readme"
+}
