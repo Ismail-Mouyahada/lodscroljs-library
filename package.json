@@ -1,6 +1,6 @@
 {
   "name": "lodscroljs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "npm library called lodscroljs for loading more content on scroll to avoid loading too much data",
   "main": "index.js",
   "scripts": {
