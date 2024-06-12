@@ -1,26 +1,30 @@
 {
   "name": "lodscroljs",
-  "version": "1.0.2",
-  "description": "npm library called lodscroljs for loading more content on scroll to avoid loading too much data",
-  "main": "index.js",
+  "version": "2.0.0",
+  "description": "LodScrolJS is a lightweight, fast, and secure JavaScript library for loading any type of content from APIs on scroll to avoid loading too much data at once.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ismail-Mouyahada/lodscroljs.git"
+    "url": "git+https://github.com/Ismail-Mouyahada/lodscroljs-library"
   },
   "keywords": [
-    "load",
-    "data",
-    "fast",
     "scroll",
-    "down"
+    "load",
+    "content",
+    "API"
   ],
   "author": "Ismail Mouyahada",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Ismail-Mouyahada/lodscroljs/issues"
   },
-  "homepage": "https://github.com/Ismail-Mouyahada/lodscroljs#readme"
+  "homepage": "https://github.com/Ismail-Mouyahada/lodscroljs#readme",
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "typescript": "^5.4.5"
+  }
 }
