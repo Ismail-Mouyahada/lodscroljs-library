@@ -1,4 +1,4 @@
-# LodScrolJS
+
 
 # LodScrolJS Documentation
 
