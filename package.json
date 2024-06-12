@@ -1,11 +1,12 @@
 {
   "name": "lodscroljs",
-  "version": "2.0.0",
+  "version": "3.0.1",
   "description": "LodScrolJS is a lightweight, fast, and secure JavaScript library for loading any type of content from APIs on scroll to avoid loading too much data at once.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
