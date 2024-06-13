@@ -3,7 +3,6 @@ LodScrolJS Documentation
 LodScrolJS is a lightweight, fast, and secure JavaScript library designed to load any type of content from APIs on scroll, helping to avoid loading too much data at once. It works seamlessly with various JavaScript frameworks, including React, Angular, Vue.js, and plain JavaScript.
 
 [![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=☕&slug=ismailmouyahada&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/ismailmouyahada)
-
  
 
 ## Installation
@@ -11,6 +10,9 @@ LodScrolJS is a lightweight, fast, and secure JavaScript library designed to loa
 ```sh
 npm install lodscroljs
 ```
+ 
+- CDN lodscroljs `https://cdn.jsdelivr.net/gh/Ismail-Mouyahada/lodscroljs-library@main/dist/index.js`
+ 
 ### Options
 - `container`: The scroll container (default: `window`)
 - `loadMore`: An async function to load more content from APIs. It receives a `done` callback to call when loading is complete.
