@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/02e71094-9a5d-4863-bff1-54b26b9b9022)
 
 LodScrolJS Documentation
 LodScrolJS is a lightweight, fast, and secure JavaScript library designed to load any type of content from APIs on scroll, helping to avoid loading too much data at once. It works seamlessly with various JavaScript frameworks, including React, Angular, Vue.js, and plain JavaScript.
